@@ -1,7 +1,7 @@
 from xmlrpc.client import boolean
 
 
-print ('Hello David')
+print ('Hello Dear David')
 print ('Результат:', 5, 7, '.', sep='/') #sep='' это разделитель, между кавычками можно поставить любой символ и именно он разделит, там  где '.' можно поставить точку
 print ('Second line')
 print ('Результат:', 5, 7, sep='', end='!') #end='' устанавливает конец для каждой строки, нижний Second line будет в одной строке с этой строкой
